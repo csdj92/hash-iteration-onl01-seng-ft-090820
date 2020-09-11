@@ -11,3 +11,7 @@ def happy_birthday(birthday_kids)
 end
 
 
+def age_appropriate_birthday(age_kid)
+  age_kid.each do |
+
+end
